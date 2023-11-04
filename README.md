@@ -8,8 +8,8 @@
  </p> 
 
 <ul>
-  <li>  I am a Biomedical Engineer and currently a Software Engineering student looking for jobs in Front-End development </li>
-    <li> I am brazilian and i live in Salt lake City, UT, USA </li>
+  <li>  I'm Biomedical Engineer and currently a Software Engineering student looking for jobs in Front-End development </li>
+    <li> I'm brazilian, living in Salt lake City, UT, USA </li>
 </ul>
 
 ##
