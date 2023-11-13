@@ -40,7 +40,7 @@
 
 Linguagens | Frameworks  | Banco de Dados | Versionamento 
 :---------: | :------: | :-------: | :------:
-HTML5, CSS e JS | Bootstrap      |    SQL       | Git
+HTML5, CSS e JS | React      |    SQL       | Git
 Java, Python |
 
 ## Contatos
