@@ -23,7 +23,7 @@
 </div>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kardecAlan&theme=github-compact&custom_title=Minhas%20Atividades%20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=revertongustavo&theme=github-compact&custom_title=Minhas%20Atividades%20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Tecnologias e Competências 
