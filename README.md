@@ -56,7 +56,7 @@ class About extends Me {
     "Database" : { "MySQL", "Sqlite", "Oracle},
     "Editors" : { "Vscode", "Sublime", "NetBeans"},
     "Platforms" : { "Mac", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Matlab" }
+    "OtherTools" : { "Git", "Figma", "Bootstrap", "Photoshop", "Matlab" }
   };
 }
 ```
