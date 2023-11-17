@@ -54,9 +54,9 @@ class About extends Me {
     "ProgramingLanguages" : { "Javascript", "Java", "Python", "C++" },
     "OtherLanguages" : { "HTML", "CSS" },
     "Database" : { "MySQL", "Sqlite", "Oracle},
-    "Editors" : { "Vscode",, "Sublime", "NetBeans"},
+    "Editors" : { "Vscode", "Sublime", "NetBeans"},
     "Platforms" : { "Mac", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Matlab" }
   };
 }
 ```
