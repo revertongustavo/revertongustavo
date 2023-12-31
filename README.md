@@ -3,17 +3,20 @@
 ## Hey Guys! My Name is Reverton
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=revertongustavo&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=revertongustavo&style=flat&color=orange&label=PROFILE+VIEWS) 
  <br>
-</div>
 
-<ul>
-  <li>  I'm Biomedical Engineer and currently a Software Engineering student looking for jobs in Front-End development </li>
-    <li> I'm brazilian, living in Salt lake City, UT, USA </li>
-</ul>
+ :computer: I'm Front-End developer and currently studying to be a Software Engineer <br>               
+🌐 I'm deeply passionate about the web and continuously strive to stay updated on the latest developments and innovations.<br>
+💬 I enjoy discussing education and software development topics, exchanging ideas, and collaborating on new projects. Feel free to reach out to me!<br>
+📫 You can contact me via Social Media in my contacts<br>
 
-##
 
+
+<br>
+
+
+<div>
 <p>
 <div align="center">
   <img height="150em"
@@ -39,26 +42,17 @@
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
 
 ```dart
-// tools_I_use organized
+// tools_I_know
 
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Javascript", "Java", "Python", "C++" },
-    "OtherLanguages / Libraries" : { "HTML", "CSS", "Typescript", "React", "SASS" },
+    "OtherLanguagesAndLibraries" : { "HTML", "CSS", "Typescript", "React", "SASS" },
     "Database" : { "MySQL", "Sqlite", "Oracle},
     "Editors" : { "Vscode", "Sublime", "NetBeans"},
     "Platforms" : { "Mac", "Windows" },
