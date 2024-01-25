@@ -6,7 +6,7 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=revertongustavo&style=flat&color=orange&label=PROFILE+VIEWS) 
  <br>
 
- :computer: I'm Front-End developer and currently studying to be a Software Engineer <br>               
+ :computer: I'm Biomedical Engineer and currently studying to be a Software QA Engineer<br>               
 🌐 I'm deeply passionate about the web and continuously strive to stay updated on the latest developments and innovations.<br>
 💬 I enjoy discussing education and software development topics, exchanging ideas, and collaborating on new projects. Feel free to reach out to me!<br>
 📫 You can contact me via Social Media in my contacts<br>
