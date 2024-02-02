@@ -42,6 +42,10 @@
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=flat-square)
+![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square)
+![Robot Framework Badge](https://img.shields.io/badge/Robot%20Framework-000?logo=robotframework&logoColor=fff&style=flat-square)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
@@ -52,7 +56,8 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Javascript", "Java", "Python", "C++" },
-    "OtherLanguagesAndLibraries" : { "HTML", "CSS", "Typescript", "React", "SASS" },
+    "OtherLanguagesAndLibraries" : { "HTML", "CSS", "Typescript", "React", "SASS"},
+    "QA": {"Cypress", "Selenium", "Robot Framework", "Postman"},
     "Database" : { "MySQL", "Sqlite", "Oracle},
     "Editors" : { "Vscode", "Sublime", "NetBeans"},
     "Platforms" : { "Mac", "Windows" },
