@@ -56,7 +56,7 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Javascript", "Java", "Python", "C++" },
-    "OtherLanguagesAndLibraries" : { "HTML", "CSS", "Typescript", "React", "SASS"},
+    "OtherLanguagesAndLibraries" : { "HTML", "CSS", "Typescript", "React", "React Native", "SASS"},
     "QA": {"Cypress", "Selenium", "Robot Framework", "Postman"},
     "Database" : { "MySQL", "Sqlite", "Oracle},
     "Editors" : { "Vscode", "Sublime", "NetBeans"},
