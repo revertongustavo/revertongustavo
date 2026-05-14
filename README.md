@@ -6,7 +6,7 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=revertongustavo&style=flat&color=orange&label=PROFILE+VIEWS) 
  <br>
 
-💻 Biomedical Engineer | Aspiring Software QA Engineer & Game Developer
+💻 Biomedical Engineer focused on Software QA Engineer & Game Developer
 
 🎮 Building games in Unity and exploring systems design, gameplay programming, and pixel art
 
