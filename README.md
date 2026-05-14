@@ -6,12 +6,17 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=revertongustavo&style=flat&color=orange&label=PROFILE+VIEWS) 
  <br>
 
- :computer: I'm Biomedical Engineer and currently studying to be a Software QA Engineer/Game developer<br>               
-🌐 I'm deeply passionate about the web and continuously strive to stay updated on the latest developments and innovations.<br>
-💬 I enjoy discussing education and software development topics, exchanging ideas, and collaborating on new projects. Feel free to reach out to me!<br>
-📫 You can contact me via Social Media in my contacts<br>
+💻 Biomedical Engineer | Aspiring Software QA Engineer & Game Developer
 
+🎮 Building games in Unity and exploring systems design, gameplay programming, and pixel art
 
+🧪 Interested in software quality assurance, automation, and creating polished user experiences
+
+🌐 Passionate about technology, continuous learning, and creative problem-solving
+
+💬 Always open to conversations about software development, QA, gaming, and new ideas
+
+📫 Connect with me through my social media links below
 
 <br>
 
